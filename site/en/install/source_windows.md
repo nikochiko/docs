@@ -36,8 +36,6 @@ the build tool used to compile TensorFlow. Set up Bazel to
 
 Add the location of the Bazel executable to your `%PATH%` environment variable.
 
-Ensure you install Bazel 0.23.0 or lower.
-
 ### Install MSYS2
 
 [Install MSYS2](https://www.msys2.org/){:.external} for the bin tools needed to
